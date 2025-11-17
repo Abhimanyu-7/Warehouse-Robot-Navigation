@@ -3,6 +3,13 @@
 A Reinforcement Learning project where an autonomous agent learns to navigate a warehouse-like grid environment to reach a goal while avoiding obstacles.
 The project uses Tabular Q-Learning with a custom Gymnasium-compatible environment.
 
+## Demo 
+
+
+
+https://github.com/user-attachments/assets/c5da6743-8d83-4328-95ef-b18c0fb55498
+
+
 ## 🚀 Project Overview
 
 This project implements an autonomous warehouse robot trained using Q-Learning, a model-free reinforcement learning algorithm.
