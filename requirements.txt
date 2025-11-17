@@ -1,0 +1,5 @@
+numpy>=1.22
+matplotlib>=3.0
+gymnasium>=0.29
+Pillow>=9.0
+imageio>=2.20    # optional (can use PIL for GIFs)
